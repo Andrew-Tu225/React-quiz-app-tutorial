@@ -64,18 +64,18 @@ By building this project, you'll get hands-on experience with:
 
 ▶️ Getting Started
 
-    go to quiz app directory
+go to quiz app directory
 
-cd quiz-app
+    cd quiz-app
 
-    Clone the repository
+Clone the repository
 
-git clone https://github.com/your-username/quiz-app.git
+    git clone https://github.com/your-username/quiz-app.git
 
-    Install dependencies
+Install dependencies
 
-npm install
+    npm install
 
-    Run the app
+Run the app
 
-npm run dev
+    npm run dev
